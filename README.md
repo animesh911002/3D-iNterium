@@ -14,11 +14,13 @@ This is a customizable application built on three.js that allows users to design
 ![Screenshot (3495)](https://github.com/animesh911002/3D-iNterium/assets/110716218/c875496a-ef95-4958-a913-f98b317ea4e3)
 
 
-3) Add items:
+2) Add items:
 
+![Screenshot (3497)](https://github.com/animesh911002/3D-iNterium/assets/110716218/535327ce-a418-4c05-9f33-c30cc777805d)
 
 3) Design in 3D:
 
+![Screenshot (3496)](https://github.com/animesh911002/3D-iNterium/assets/110716218/74ee08f8-3f87-4847-9490-f8e9b8fdeb17)
 
 
 ## Developing and Running Locally
