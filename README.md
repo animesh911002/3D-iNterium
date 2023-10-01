@@ -4,22 +4,22 @@ This is a customizable application built on three.js that allows users to design
 
 [Live Demo](http://amitukind.com/projects/architect3d/)
 
-![Screenshot (3495)](https://github.com/animesh911002/3D-iNterium/assets/110716218/3504de05-ab58-4538-9c28-dd971e2e2258)
+
 
 
  Below are screenshots from  [Live Demo](http://amitukind.com/projects/architect3d/)
 
 1) Create 2D floorplan:
+   
+![Screenshot (3495)](https://github.com/animesh911002/3D-iNterium/assets/110716218/c875496a-ef95-4958-a913-f98b317ea4e3)
 
-![floorplan](./images/floorplan2d.png)
 
-2) Add items:
+3) Add items:
 
-![add_items](./images/items.png)
 
 3) Design in 3D:
 
-![3d_design](./images/floorplan3d.png)
+
 
 ## Developing and Running Locally
 
